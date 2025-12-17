@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "文化祭の夜",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T18:04:48.466773Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "文化祭の夜",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/01_文化祭の夜_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "文化祭の夜",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_文化祭の夜_BaseBallBear.txt"
+    }
+  ]
+}
